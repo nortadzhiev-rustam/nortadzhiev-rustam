@@ -19,7 +19,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Plus: Reanimated 3, EAS Build & Update, Stripe, Three.js
+Plus: Reanimated 4, EAS Build & Update, Stripe, Three.js
 
 ## 🚀 Featured Projects
 
