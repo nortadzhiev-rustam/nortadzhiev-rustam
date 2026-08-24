@@ -32,9 +32,16 @@ Plus: Reanimated 4, EAS Build & Update, Stripe, Three.js
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nortadzhiev-rustam&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortadzhiev-rustam&layout=compact&hide_border=true" alt="Top languages" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nortadzhiev-rustam&theme=github" alt="Profile details" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nortadzhiev-rustam&theme=github" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nortadzhiev-rustam&theme=github" alt="Most commit language" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nortadzhiev-rustam&theme=github" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nortadzhiev-rustam&theme=github&utcOffset=5" alt="Productive time" />
 </p>
 
 ## 📫 Get in Touch
